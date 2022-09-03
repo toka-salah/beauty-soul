@@ -1,0 +1,82 @@
+header{
+    background-color: antiquewhite;
+    text-align: center;
+   margin-top: 0;
+   width: 100%;
+   
+  
+   
+   
+}
+ body{
+    background-image:url(images/38hNnKB84sTvymX264P34H-1200-80.png);
+   
+    background-repeat: repeat;
+    background-position: right top; 
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-size:cover;
+    font-family: 'Dancing Script', cursive;
+    
+}
+div{
+  background: none;
+  text-align: center;
+}
+div img{
+  width:20%;
+}
+
+span{
+    background-color: rgb(186, 235, 218);
+    display:inline-table;
+  width: 500px;
+  height: 700px;
+margin-inline: 30px;
+margin-top: 30px;
+margin-left: 60px;
+  padding: 30px;
+  border: 1px solid rgb(224, 231, 151);   
+}
+ span img{
+    width: 100%;
+    height: 400px;
+
+}
+footer{
+    background-color: rgb(242, 236, 228);
+    text-align: center;
+    color: rgb(154, 132, 50);
+    width: 100%;
+
+}
+
+button {
+  background-color:  antiquewhite; 
+  border: none;
+  color: rgb(134, 99, 38);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:none;
+  display: inline-block;
+  font-size: 16px;
+}
+footer,header{
+  background-color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
